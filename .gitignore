@@ -100,3 +100,4 @@ ENV/
 .mypy_cache/
 
 \.idea/
+/flask-react/static/node_modules/
