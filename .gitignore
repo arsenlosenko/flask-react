@@ -101,3 +101,4 @@ ENV/
 
 \.idea/
 /flask-react/static/node_modules/
+/flask-react/static/package-lock.json
