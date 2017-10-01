@@ -24,5 +24,6 @@
 
 
 ### React Setup:
-[Setup React with Gulp](https://medium.com/@zymnytskiy/how-to-setup-gulp-with-es7-and-react-41b0dcb73d65
-)
+[Setup React with Gulp](https://medium.com/@zymnytskiy/how-to-setup-gulp-with-es7-and-react-41b0dcb73d65)
+
+
